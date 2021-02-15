@@ -27,10 +27,10 @@ public class TwitterProducer {
 
 
     List<String> terms = Lists.newArrayList("kafka", "bitcoin", "India");
-    private String consumerKey = "";
-    private String consumerSecret = "";
-    private String token = "-X0PJ2GDc8QgKFgCYCttJIl11b3wbwM";
-    private String secret = "";
+    private String consumerKey = "5C9bKLAQTNH6ChnMLWcJrn7oO";
+    private String consumerSecret = "dOCIl3DEAsxdnThSdvjVxnDGpjNgTzxHC764O5BjV6J96cSUT2";
+    private String token = "1359541759370350595-X0PJ2GDc8QgKFgCYCttJIl11b3wbwM";
+    private String secret = "W9mzSbs90lOxcTnjNfzqctkG7yDNwrGOL5P8vILA5MmTo";
 
     public TwitterProducer() {
     }
